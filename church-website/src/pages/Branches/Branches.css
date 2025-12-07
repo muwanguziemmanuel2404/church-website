@@ -1,0 +1,60 @@
+.branches-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Header */
+.branches-header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(to right, #e8eaf6, #e3f2fd);
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.branches-title {
+  font-weight: bold;
+}
+
+.branches-subtitle {
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* Section Titles */
+.section-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Cards */
+.branch-card,
+.mission-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+}
+
+.branch-card:hover,
+.mission-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Card Titles */
+.branch-name,
+.mission-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+/* Text */
+.branch-text,
+.mission-text {
+  color: #555;
+  line-height: 1.5;
+}
+
+/* Sections */
+.section-grid {
+  margin-bottom: 2rem;
+}

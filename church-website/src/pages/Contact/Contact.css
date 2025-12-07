@@ -1,0 +1,67 @@
+.contact-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Header */
+.contact-header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(to right, #e8eaf6, #e3f2fd);
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.contact-title {
+  font-weight: bold;
+}
+
+.contact-subtitle {
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+/* Contact Form */
+.contact-card {
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.contact-form {
+  margin-top: 1rem;
+}
+
+.input-field {
+  margin-bottom: 1.2rem;
+}
+
+.submit-btn {
+  padding: 0.8rem 2rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+/* Contact Information */
+.contact-info-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: #fafbfd;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.info-title {
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.info-item {
+  margin-bottom: 1rem;
+  color: #444;
+  line-height: 1.6;
+}

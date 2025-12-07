@@ -1,0 +1,82 @@
+.sermons-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Header */
+.sermons-header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(to right, #e8eaf6, #e3f2fd);
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.sermons-title {
+  font-weight: bold;
+}
+
+.sermons-subtitle {
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+/* Featured Sermon */
+.featured-section {
+  margin-bottom: 3rem;
+}
+
+.featured-card {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.featured-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.featured-text {
+  color: #444;
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+}
+
+.featured-btn {
+  font-weight: bold;
+}
+
+/* Past Sermons */
+.sermon-card {
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.3s ease;
+  height: 100%;
+}
+
+.sermon-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.18);
+}
+
+.sermon-name {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.sermon-desc {
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.sermon-btn {
+  text-transform: none;
+  font-weight: bold;
+}
+
+/* Section Titles */
+.section-title {
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+}

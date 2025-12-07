@@ -1,0 +1,135 @@
+.tithes-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* HERO SECTION */
+.tithes-hero {
+  position: relative;
+  height: 360px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.tithes-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tithes-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.tithes-hero-title {
+  font-weight: bold;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+}
+
+.tithes-hero-subtitle {
+  margin-top: 0.5rem;
+  max-width: 700px;
+}
+
+/* Section Titles */
+.section-title {
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+}
+
+/* Section Text */
+.section-text {
+  color: #555;
+  line-height: 1.7;
+}
+
+/* Explanation Cards */
+.explanation-card {
+  padding: 1.2rem;
+  border-radius: 12px;
+  background: #fafbff;
+  box-shadow: 0 3px 18px rgba(0,0,0,0.1);
+}
+
+.explanation-title {
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.explanation-text {
+  color: #444;
+  line-height: 1.7;
+}
+
+/* Worship Image */
+.worship-section {
+  margin-top: 3rem;
+}
+
+.worship-card {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Giving Methods */
+.giving-card {
+  padding: 1.3rem;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 3px 15px rgba(0,0,0,0.1);
+}
+
+.giving-title {
+  font-weight: 600;
+}
+
+.giving-text {
+  color: #555;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.giving-btn {
+  width: 100%;
+  font-weight: bold;
+}
+
+/* Quick Giving Buttons */
+.quick-give-btn {
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Closing Section */
+.closing-section {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 2rem;
+  background: #f1f4ff;
+  border-radius: 12px;
+}
+
+.closing-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.closing-text {
+  color: #555;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}

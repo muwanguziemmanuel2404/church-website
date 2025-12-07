@@ -1,0 +1,68 @@
+/* Container */
+.mission-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Header Section */
+.mission-header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(to right, #e8eaf6, #e3f2fd);
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.mission-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.mission-subtitle {
+  color: #555;
+}
+
+/* Section Title */
+.section-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Section Text */
+.section-text {
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+/* Pillars Section */
+.pillars-section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.pillar-card {
+  padding: 1rem;
+  text-align: center;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+
+.pillar-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.pillar-title {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.pillar-text {
+  color: #555;
+}
+
+/* Vision Section */
+.vision-section {
+  margin-top: 3rem;
+}
