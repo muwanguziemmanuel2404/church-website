@@ -1,5 +1,6 @@
 import React from "react";
-import { Container, Typography, Grid, Box, Link, IconButton } from "@mui/material";
+import { Container, Typography, Grid, Box, IconButton } from "@mui/material";
+import { Link } from "react-router-dom";
 import "./Footer.css";
 
 // Optional: Social media icons from Material UI
@@ -7,6 +8,8 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import YouTubeIcon from "@mui/icons-material/YouTube";
+
+
 
 function Footer() {
   return (
@@ -45,13 +48,13 @@ function Footer() {
               Quick Links
             </Typography>
             <Box className="footer-links">
-              <Link href="/" className="footer-link">Home</Link>
-              <Link href="/mission" className="footer-link">Mission</Link>
-              <Link href="/branches" className="footer-link">Branches</Link>
-              <Link href="/sermons" className="footer-link">Sermons</Link>
-              <Link href="/gallery" className="footer-link">Gallery</Link>
-              <Link href="/donations" className="footer-link">Donations</Link>
-              <Link href="/contact" className="footer-link">Contact</Link>
+              <Link to="/" className="footer-link">Home</Link>
+              <Link to="/mission" className="footer-link">Mission</Link>
+              <Link to="/branches" className="footer-link">Branches</Link>
+              <Link to="/sermons" className="footer-link">Sermons</Link>
+              <Link to="/gallery" className="footer-link">Gallery</Link>
+              <Link to="/donations" className="footer-link">Donations</Link>
+              <Link to="/contact" className="footer-link">Contact</Link>
             </Box>
           </Grid>
 
