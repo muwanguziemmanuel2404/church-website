@@ -36,7 +36,6 @@ function Home() {
             A place to experience God's love, grow spiritually, and connect with purpose.
           </Typography>
 
-          const navigate = useNavigate();
           <Button
             component={Link}
             to="/mission"
