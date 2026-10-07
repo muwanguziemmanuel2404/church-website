@@ -73,29 +73,6 @@ Mobile
 
 Responsive layouts and flexible components help ensure that the content remains accessible and usable on different devices.
 
-🧩 Project Structure
-church-organisation/
-│
-├── index.html
-├── about.html
-├── events.html
-├── services.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   └── ...
-│
-└── README.md
-
-
-The structure above can be adjusted to match the actual project.
-
 💡 What I Learned
 
 As a personal project, this website provided an opportunity to develop and strengthen my skills in:
@@ -125,8 +102,6 @@ Online event registration
 Church calendar integration
 
 Sermon or media library
-
-Online donations
 
 Member registration
 
