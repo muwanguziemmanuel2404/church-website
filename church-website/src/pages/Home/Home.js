@@ -12,7 +12,7 @@ import {
 import "./Home.css";
 
 // IMAGES
-import hero from "../../assets/Home/hero.png";
+import hero from "../../assets/Home/church-building.jpg";
 import founder from "../../assets/Home/founder.png";
 import mission from "../../assets/Home/mission.jpg";
 import worship from "../../assets/Home/worship.jpg";
@@ -26,7 +26,7 @@ function Home() {
         <img src={hero} alt="Hero" className="hero-img" />
         <div className="hero-overlay">
           <Typography variant="h3" className="hero-title">
-            Welcome to Christ The Rock Worchip Centre
+            Welcome to Grace Church International
           </Typography>
           <Typography variant="h6" className="hero-subtitle">
             A place to experience God's love, grow spiritually, and connect with purpose.
