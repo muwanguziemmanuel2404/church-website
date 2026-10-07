@@ -140,11 +140,6 @@ Backend/database integration
 
 Improved accessibility features
 
-📷 Screenshots
-
-Screenshots of the website can be added here to demonstrate the design and user interface.
-
-Add screenshots or GIFs here
 
 📌 Project Type
 
