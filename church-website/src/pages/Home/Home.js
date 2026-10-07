@@ -26,7 +26,7 @@ function Home() {
         <img src={hero} alt="Hero" className="hero-img" />
         <div className="hero-overlay">
           <Typography variant="h3" className="hero-title">
-            Welcome to Grace Church International
+            Welcome to Christ The Rock Worchip Centre
           </Typography>
           <Typography variant="h6" className="hero-subtitle">
             A place to experience God's love, grow spiritually, and connect with purpose.
