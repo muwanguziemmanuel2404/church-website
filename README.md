@@ -2,7 +2,7 @@
 
 A modern and responsive church organisation website developed as a personal project to explore web design, user experience, and the development of an online platform for a church community.
 
-The project was created to provide a central online presence where visitors and members can learn more about the church, discover upcoming activities, access information, and stay connected with the organisation.
+The project was created to provide a central online presence where visitors and members can learn more about thea church, discover upcoming activities, access information, and stay connected with the organisation.
 
 📌 Project Overview
 
@@ -73,29 +73,6 @@ Mobile
 
 Responsive layouts and flexible components help ensure that the content remains accessible and usable on different devices.
 
-🧩 Project Structure
-church-organisation/
-│
-├── index.html
-├── about.html
-├── events.html
-├── services.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   └── ...
-│
-└── README.md
-
-
-The structure above can be adjusted to match the actual project.
-
 💡 What I Learned
 
 As a personal project, this website provided an opportunity to develop and strengthen my skills in:
@@ -126,8 +103,6 @@ Church calendar integration
 
 Sermon or media library
 
-Online donations
-
 Member registration
 
 Newsletter subscription
@@ -140,11 +115,6 @@ Backend/database integration
 
 Improved accessibility features
 
-📷 Screenshots
-
-Screenshots of the website can be added here to demonstrate the design and user interface.
-
-Add screenshots or GIFs here
 
 📌 Project Type
 
