@@ -17,7 +17,7 @@ function Footer() {
           {/* Logo and Description */}
           <Grid item xs={12} md={4}>
             <Typography variant="h5" className="footer-logo">
-              Grace Church International
+              CTRF Ministries International
             </Typography>
             <Typography variant="body2" className="footer-desc">
               A place to experience God's love, grow spiritually, and connect with purpose.
@@ -61,13 +61,13 @@ function Footer() {
               Contact Us
             </Typography>
             <Typography variant="body2" className="footer-info">
-              📍 123 Grace Avenue, Springfield City
+              📍 145 Grace Avenue, Springfield City
             </Typography>
             <Typography variant="body2" className="footer-info">
               📞 +1 (555) 987-6543
             </Typography>
             <Typography variant="body2" className="footer-info">
-              ✉️ info@gracechurch.org
+              ✉️ info@ctrfministries.org
             </Typography>
             <Typography variant="body2" className="footer-info">
               🕒 Sundays – 9:00 AM & 11:00 AM | Wednesdays – 6:00 PM

@@ -84,9 +84,9 @@ function Donations() {
                 Mobile Money
               </Typography>
               <Typography variant="body2" className="method-text">
-                <strong>MTN:</strong> +233 555 123 456<br />
-                <strong>Vodafone:</strong> +233 555 987 654<br />
-                <strong>AirtelTigo:</strong> +233 555 222 333
+                <strong>MTN:</strong> +44 555 143 456<br />
+                <strong>Vodafone:</strong> +44 555 957 654<br />
+                <strong>AirtelTigo:</strong> +44 556 222 333
               </Typography>
             </CardContent>
           </Card>

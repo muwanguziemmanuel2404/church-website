@@ -151,7 +151,7 @@ function Contact() {
               </Typography>
 
               <Typography variant="body1" sx={{ mb: 1 }}>
-                📍 <strong>Address:</strong> 123 Grace Avenue, Springfield City
+                📍 <strong>Address:</strong> 145 Grace Avenue, Springfield City
               </Typography>
 
               <Typography variant="body1" sx={{ mb: 1 }}>
@@ -159,7 +159,7 @@ function Contact() {
               </Typography>
 
               <Typography variant="body1" sx={{ mb: 1 }}>
-                ✉️ <strong>Email:</strong> info@gracechurch.org
+                ✉️ <strong>Email:</strong> info@ctrfministries.org
               </Typography>
 
               <Typography variant="body1" sx={{ mb: 1 }}>
@@ -169,7 +169,7 @@ function Contact() {
               </Typography>
 
               <Typography variant="body1" sx={{ mb: 1 }}>
-                🙏 <strong>Prayer Line:</strong> +1 (555) 222-3333
+                🙏 <strong>Prayer Line:</strong> +1 (555) 222-3553
               </Typography>
             </CardContent>
           </Card>

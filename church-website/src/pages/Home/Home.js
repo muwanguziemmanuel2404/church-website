@@ -26,7 +26,7 @@ function Home() {
         <img src={hero} alt="Hero" className="hero-img" />
         <div className="hero-overlay">
           <Typography variant="h3" className="hero-title">
-            Welcome to Grace Church International
+            Welcome to Christ The Rock Foundation Ministries
           </Typography>
           <Typography variant="h6" className="hero-subtitle">
             A place to experience God's love, grow spiritually, and connect with purpose.
@@ -79,7 +79,7 @@ function Home() {
             </Typography>
 
             <Typography variant="body2" className="founder-name">
-              — Apostle Priscillah Kisakye, Founder 
+              — Ap. Priscillah Kisakye, Founder 
             </Typography>
           </Grid>
         </Grid>
@@ -112,12 +112,7 @@ function Home() {
               Read More
             </Button>
           </Grid>
-
-          <Grid item xs={12} md={6}>
-            <Card className="mission-card">
-              <CardMedia component="img" height="350" image={mission} alt="Mission" />
-            </Card>
-          </Grid>
+ 
         </Grid>
 
         {/* MINISTRIES / BRANCHES PREVIEW */}
