@@ -9,6 +9,10 @@ import {
   Button,
   Box
 } from "@mui/material";
+
+import { Link } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
+
 import "./Home.css";
 
 // IMAGES
@@ -32,10 +36,13 @@ function Home() {
             A place to experience God's love, grow spiritually, and connect with purpose.
           </Typography>
 
+          const navigate = useNavigate();
           <Button
+            component={Link}
+            to="/mission"
             variant="contained"
             size="large"
-            href="/about"
+            // onClick={() => navigate("/about")}
             sx={{
               backgroundColor: "#FFA500", // Orange
               color: "#000000",           // Black text
